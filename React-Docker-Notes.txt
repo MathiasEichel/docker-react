@@ -48,3 +48,7 @@ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=d127fd932
 Testing and deployment Server Travis
 https://travis-ci.com/
 
+AWS Eleastic Beanstalk url:
+Dockerreact-env.eba-3kg4wcgv.eu-central-1.elasticbeanstalk.com 
+
+
