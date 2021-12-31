@@ -51,4 +51,13 @@ https://travis-ci.com/
 AWS Eleastic Beanstalk url:
 Dockerreact-env.eba-3kg4wcgv.eu-central-1.elasticbeanstalk.com 
 
+Git-commands for workflow
+$ git init 						// for preparing first time
+$ git add . 					// add files to repo
+$ git status					// display files modified
+$ git commit -m "version text"	// commit changes 
+$ git push origin master		// push changes up to repo
+$ git checkout -b feature		// create feature branch
+
+
 
