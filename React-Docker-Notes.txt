@@ -40,3 +40,11 @@ https://github.com/moby/moby/issues/36408
 Also, you can read up on the chown flag for the COPY instruction here:
 https://docs.docker.com/engine/reference/builder/#copy
 
+
+
+GitHub Authorization Token for VS Code:
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=d127fd93282963c7d1b1&state=306926cc-06cf-4909-9d23-9efc0357e9b8
+
+Testing and deployment Server Travis
+https://travis-ci.com/
+
